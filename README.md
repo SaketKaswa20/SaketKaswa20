@@ -81,7 +81,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/SaketKaswa20/SaketKaswa20/blob/output/github-contribution-grid-snake.gif)
 
 ###
 

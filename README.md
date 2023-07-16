@@ -81,9 +81,8 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/SaketKaswa20/SaketKaswa20/blob/output/github-contribution-grid-snake.svg)
-
 ###
+<h3 align="left">Profile Views Count:</h3>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/SaketKaswa20/count.svg?"  />

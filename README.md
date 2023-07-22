@@ -80,6 +80,9 @@
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
+  <img height="150" src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif"  />
+  <img height="150" src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif"  />
+  <img height="150" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"  />
 </div>
 
 ###

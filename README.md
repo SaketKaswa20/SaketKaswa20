@@ -77,11 +77,6 @@
 </div>
 
 ###
-<div align="center">
-[![SaketKaswa20's GitHub | Languages Over Time](https://stats.quine.sh/SaketKaswa20/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SaketKaswa20)
-</div>
-
-###
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />

@@ -97,6 +97,15 @@
 </div>
 
 ###
+<h3 align="left">GitHub Stats Terminal</h3>
+
+<p align="center" >
+  <a href="https://github.com/SaketKaswa20/GitHub_Stats_Terminal/blob/master/.github/workflows/main.yml">
+    <img src="https://github.com/SaketKaswa20/GitHub_Stats_Terminal/blob/master/github_stats.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
+  </a>
+</p>
+  
+###
 <div align="center">
   <img src="https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103" />
 </div>

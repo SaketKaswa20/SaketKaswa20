@@ -1,4 +1,7 @@
-[![MasterHead](banner.png)](https://github.com/SaketKaswa20/)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SaketKaswa20/SaketKaswa20/263d50734e2fb3b1d9d6b01f4e316d04225c5386/name.svg">
+</div>
 
 <h2 align="left">Hi 👋! My name is Saket Kaswa and I'm a 3rd Year Undergraduate Student, from Pune.</h2>
 
